@@ -1,0 +1,25 @@
+;; -*- emacs-lisp -*- <13/09/24 22:36:28 /home/r/.emacs.d/tramp>
+;; Tramp connection history.  Don't change this file.
+;; You can delete it, forcing Tramp to reapply the checks.
+
+((["scpc" "r" "tomalared.net" nil]
+  ("uname" "Linux 3.2.0-4-amd64")
+  ("remote-path"
+   ("/bin" "/usr/bin" "/usr/sbin" "/usr/local/bin"))
+  ("remote-shell" "/bin/sh")
+  ("id" "/usr/bin/id")
+  ("gid-integer" 27)
+  ("stat" "\\stat")
+  ("test" "test")
+  ("file-exists" "test -e")
+  ("readlink" "\\readlink")
+  ("local-encoding" base64-encode-region)
+  ("local-decoding" base64-decode-region)
+  ("remote-encoding" "base64")
+  ("remote-decoding" "base64 -d -i")
+  ("uid-integer" 1002)
+  ("perl-file-spec" t)
+  ("perl-cwd-realpath" t)
+  ("perl" "\\perl"))
+ (["scpc" nil "ptamei" nil]
+  nil))

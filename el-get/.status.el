@@ -1,0 +1,1 @@
+(:package "installed" :inf-ruby "installed" :xcscope "installed" :erc "installed" :ruby-electric "installed" :magit "removed" :magithub "installed" :git-commit-mode "installed" :w3m-extension "removed" :google-weather "installed")

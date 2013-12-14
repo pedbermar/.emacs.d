@@ -1,0 +1,16 @@
+/home/r/tomalared_chat/config/routes.rb
+/home/r/tomalared_chat/config/#routes.rb#
+/home/r/tomalared_chat/app/controllers/user_sessions_controller.rb
+/home/r/tomalared_chat/app/controllers/#user_sessions_controller.rb#
+/home/r/tomalared_chat/app/controllers/users_controller.rb
+/home/r/tomalared_chat/app/controllers/#users_controller.rb#
+/home/r/tomalared_chat/app/models/user.rb
+/home/r/tomalared_chat/app/models/#user.rb#
+/home/r/tomalared_chat/app/views/users/_form.html.erb
+/home/r/tomalared_chat/app/views/users/#_form.html.erb#
+/home/r/tomalared_chat/app/views/user_sessions/new.html.erb
+/home/r/tomalared_chat/app/views/user_sessions/#new.html.erb#
+/home/r/tomalared_chat/app/controllers/application_controller.rb
+/home/r/tomalared_chat/app/controllers/#application_controller.rb#
+/home/r/tomalared_chat/db/migrate/20130419180804_create_user_sessions.rb
+/home/r/tomalared_chat/db/migrate/#20130419180804_create_user_sessions.rb#
